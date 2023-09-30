@@ -1,0 +1,4 @@
+/root/cs/su22-proj4-starter/numc/lib/python3.10/site-packages/numc.cpython-310-x86_64-linux-gnu.so
+/root/cs/su22-proj4-starter/numc/lib/python3.10/site-packages/numc-0.0.1.egg-info
+/root/cs/su22-proj4-starter/numc/lib/python3.10/site-packages/dumbpy.cpython-310-x86_64-linux-gnu.so
+/root/cs/su22-proj4-starter/numc/lib/python3.10/site-packages/dumbpy-0.0.1.egg-info

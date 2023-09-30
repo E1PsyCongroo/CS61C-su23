@@ -1,0 +1,26 @@
+# You should be editing this file for exercise 2 of lab 2.
+# Make sure each command is on its own line
+# Lines starting with # are comments, feel free to add any to document your commands
+
+# Please add your commands below this line
+cgdb pwd_checker
+start
+next
+next
+next
+next
+step
+step
+print password
+finish
+step
+step
+step
+step
+step
+print meets_len_req
+step
+print length
+quit
+
+
